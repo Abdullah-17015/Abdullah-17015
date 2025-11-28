@@ -1,4 +1,7 @@
-<img src="snake.yml" alt="Snake animation" />
+<picture>
+  <img src="https://raw.githubusercontent.com/Abdullah-17015/Abdullah-17015/output/snake.svg" alt="Snake animation" />
+</picture>
+
 
 ###
 

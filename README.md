@@ -1,6 +1,7 @@
-<picture>
+<div align="center">
   <img src="https://raw.githubusercontent.com/Abdullah-17015/Abdullah-17015/output/snake.svg" alt="Snake animation" />
-</picture>
+</div>
+
 
 
 ###

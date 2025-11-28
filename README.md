@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Abdullah-17015/Abdullah-17015/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/Abdullah-17015/Abdullah-17015/output/snake.svg](https://github.com/Abdullah-17015/Abdullah-17015/blob/main/snake.yml)" alt="Snake animation" />
 
 ###
 
